@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Django: Python Web Development Unleashed",
+    "author": "Lorem ipsum",
+    "free": true,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/10370001/5026411048861696/image/4604108341248000",
+    "url": ""
+  },
+  {
+    "title": "Advanced React Patterns With Hooks",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/5854561945255936/5664668925296640/image/6581287687553024",
+    "url": ""
+  },
+  {
+    "title": "Web Development: Unraveling HTML, CSS, and JavaScript",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/10370001/5551624074297344/image/5668113229021184",
+    "url": ""
+  },
+  {
+    "title": "Building Full-Stack Web Applications with AdonisJs",
+    "author": "Lorem ipsum",
+    "free": true,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/10370001/6079504494624768/image/6402210052177920",
+    "url": ""
+  },
+  {
+    "title": "Using TypeScript with React",
+    "author": "Lorem ipsum",
+    "free": true,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/4619705736232960/4884662000287744/image/6150106001702912",
+    "url": ""
+  },
+  {
+    "title": "Web Application and Software Architecture 101",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/6064040858091520/6411938009448448/image/6389694217584640",
+    "url": ""
+  },
+  {
+    "title": "Advanced TypeScript Masterclass",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/4801358654865408/6710354043207680/image/4896926832001024",
+    "url": ""
+  },
+  {
+    "title": "A Hands-on Guide to Angular",
+    "author": "Lorem ipsum",
+    "free": true,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/5854561945255936/5664668925296640/image/6581287687553024",
+    "url": ""
+  },
+
+  {
+    "title": "Test-driven Development with React",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/10370001/4635489064189952/image/5070397269082112",
+    "url": ""
+  },
+  {
+    "title": "Developing Mobile Apps with Ionic and React",
+    "author": "Lorem ipsum",
+    "free": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/10370001/5481733085462528/image/6094141386129408",
+    "url": ""
+  }
+]
