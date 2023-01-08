@@ -6,5 +6,5 @@ Built using:
 - Flask
 - SQLAlchemy
 
-##Demo:
+## Demo:
 ![Alt text](/Demo.png "Optional title")
